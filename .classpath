@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bdo_java_training/src"/>
+	<classpathentry kind="src" path="HyberNateDemo/src"/>
+	<classpathentry kind="src" path="IOCDemoWithAnnotation/src"/>
+	<classpathentry kind="src" path="IOCDemoWithXml/src"/>
+	<classpathentry kind="src" path="java logging/src/main/java"/>
+	<classpathentry kind="src" path="java logging/src/test/java"/>
+	<classpathentry kind="src" path="One_To_One_Demo/src"/>
+	<classpathentry kind="output" path="HyberNateDemo/bin"/>
+</classpath>
